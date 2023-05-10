@@ -8,7 +8,9 @@ namespace Connection
         {
             Console.WriteLine("Hello World!");
 
-            Console.WriteLine("America is the richest country of the world!"); 
+            Console.WriteLine("America is the richest country of the world!");
+
+            Console.WriteLine("I'm sure of that!");
         }
     }
 }
