@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\Connection\Connection\bin\Debug\netcoreapp3.1\Connection.exe
+C:\Users\Asus\source\repos\Connection\Connection\bin\Debug\netcoreapp3.1\Connection.deps.json
+C:\Users\Asus\source\repos\Connection\Connection\bin\Debug\netcoreapp3.1\Connection.runtimeconfig.json
+C:\Users\Asus\source\repos\Connection\Connection\bin\Debug\netcoreapp3.1\Connection.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Connection\Connection\bin\Debug\netcoreapp3.1\Connection.dll
+C:\Users\Asus\source\repos\Connection\Connection\bin\Debug\netcoreapp3.1\Connection.pdb
+C:\Users\Asus\source\repos\Connection\Connection\obj\Debug\netcoreapp3.1\Connection.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Connection\Connection\obj\Debug\netcoreapp3.1\Connection.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Connection\Connection\obj\Debug\netcoreapp3.1\Connection.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Connection\Connection\obj\Debug\netcoreapp3.1\Connection.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Connection\Connection\obj\Debug\netcoreapp3.1\Connection.dll
+C:\Users\Asus\source\repos\Connection\Connection\obj\Debug\netcoreapp3.1\Connection.pdb
+C:\Users\Asus\source\repos\Connection\Connection\obj\Debug\netcoreapp3.1\Connection.genruntimeconfig.cache
